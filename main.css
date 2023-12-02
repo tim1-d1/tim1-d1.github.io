@@ -4,13 +4,13 @@ li {
 
 ol {
   font-size: 1.3em;
-  background-image: url("images/david-van-dijk-3LTht2nxd34-unsplash.jpg");
- background-color: blue;
+  
+ background-color: orange;
 }
 
 
 
 body {
- background-color:orange;
+ background-image: url("images/david-van-dijk-3LTht2nxd34-unsplash.jpg");
 }
 
